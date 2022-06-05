@@ -10,7 +10,6 @@ Keywords:
 - Styled Components
 - ESLint
 - Prettier
-- atomic design
 
 ### `Before launch`
 
