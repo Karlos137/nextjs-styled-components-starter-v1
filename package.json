@@ -1,6 +1,12 @@
 {
   "name": "nextjs-styled-components-starter-v1",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "A starter for Next.js and styled-components",
+  "author": {
+    "name": "Karel Kvítek",
+    "email": "karel.kvitek@seznam.cz",
+    "url": "https://karelkvitek.cz"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -16,5 +22,8 @@
   "devDependencies": {
     "eslint": "8.17.0",
     "eslint-config-next": "12.1.6"
+  },
+  "engines": {
+    "node": ">=12.22.x <=16.x.x"
   }
 }
