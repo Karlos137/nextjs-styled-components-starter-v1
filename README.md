@@ -14,7 +14,7 @@ Keywords:
 ### `Before launch`
 
 ```
-yarn develop
+yarn install
 ```
 
 ### `develop`

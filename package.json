@@ -21,9 +21,9 @@
     "styled-components": "^5.3.5"
   },
   "devDependencies": {
-    "eslint": "8.17.0",
+    "eslint": "^8.18.0",
     "eslint-config-next": "12.1.6",
-    "prettier": "^2.7.0"
+    "prettier": "^2.7.1"
   },
   "engines": {
     "node": ">=12.22.x <=16.x.x"
