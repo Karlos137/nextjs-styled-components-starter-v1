@@ -1,5 +1,5 @@
 const HomePage = () => {
-  return <div>A starter for Next.js and styled-components.</div>
+  return <>A starter for Next.js and styled-components.</>
 }
 
 export default HomePage
