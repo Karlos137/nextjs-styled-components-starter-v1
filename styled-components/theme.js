@@ -1,5 +1,5 @@
-import breakpoints from "../breakpoints"
-import colors from "../colors"
+import breakpoints from "../utils/breakpoints"
+import colors from "../utils/colors"
 
 export const theme = {
   colors: {
