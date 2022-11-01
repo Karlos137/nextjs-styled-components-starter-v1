@@ -1,6 +1,6 @@
 # Next.js & styled-components starter template
 
-A starter for Next.js and styled-components.
+A starter for Next.js (v12) and styled-components (v5).
 
 Keywords:
 

@@ -1,6 +1,5 @@
 import Document, { Html, Head, Main, NextScript } from "next/document"
 import { ServerStyleSheet } from "styled-components"
-import { mediaStyles } from "../utils/media"
 
 export default class MyDocument extends Document {
   static async getInitialProps(ctx) {
@@ -26,13 +25,7 @@ export default class MyDocument extends Document {
   render() {
     return (
       <Html>
-        <Head>
-          <style
-            type="text/css"
-            dangerouslySetInnerHTML={{ __html: mediaStyles }}
-          />
-          <link rel="stylesheet" href="https://use.typekit.net/upl0fyp.css" />
-        </Head>
+        <Head />
         <body>
           <Main />
           <NextScript />
